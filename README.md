@@ -1,1 +1,3 @@
-# Do_it_Django
+# 점프투장고_로그인, 회원가입, 비밀번호 찾기, 게시판 기능 구현
+
+https://wikidocs.net/72242
